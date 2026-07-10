@@ -31,30 +31,6 @@ This project currently focuses on the **frontend UI/UX** with a clean, responsiv
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots inside a `screenshots` folder.
-
-### Home Page
-
-```
-screenshots/home.png
-```
-
-### Features Page
-
-```
-screenshots/features.png
-```
-
-### Dashboard
-
-```
-screenshots/dashboard.png
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -102,8 +78,8 @@ SmartMedAI/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SmartMedAI.git
-```
+git clone https://github.com/ashukr8287/SmartMedAI.git
+
 
 Move into the project
 
@@ -242,7 +218,7 @@ Frontend Developer
 
 GitHub: https://github.com/ashukr8287
 
-LinkedIn: https://linkedin.com/in/your-linkedin
+LinkedIn: https://www.linkedin.com/in/ashu-kumar-singh
 
 ---
 
